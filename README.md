@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fslipe17
-- 👀 I’m interested in create projects from scratch and learn on your own.
+- 👀 I’m interested in create ...
 - 🌱 I’m currently learning Python, JavaScript, Html, css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta @luiz_felipe_yes
